@@ -1,0 +1,14 @@
+html {
+  background-color: #f5f0e6; /* бежевый фон для всей страницы */
+}
+
+body {
+  margin: 0; /* убираем отступы по умолчанию */
+  background-color: #f5f0e6; /* бежевый фон */
+  font-family: Georgia, serif; /* шрифт как в книге */
+}
+
+#root {
+  min-height: 100vh; /* растягиваем на всю высоту */
+  background-color: #f5f0e6; /* тот же бежевый фон */
+}
