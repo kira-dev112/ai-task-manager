@@ -10,7 +10,7 @@ conn = psycopg2.connect(
     database="task_manager",
     user="postgres",
     password="newpass123",
-    port=5432
+    port=5433
 )
 
 cur = conn.cursor() #создаём курсор
